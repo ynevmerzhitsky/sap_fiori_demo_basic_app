@@ -1,0 +1,11 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="ns.businesspartners.controller.Suppliers" displayBlock="true">
+    <Page id="page" title="{i18n>title}">
+        <content>
+            <List id="list0" noDataText="No suppliers found" items="{/BusinessPartnerSet}">
+                <items>
+                    <StandardListItem id="item0" type="Navigation" description="{WebAddress}" title="{CompanyName}" icon="sap-icon://picture"/>
+                </items>
+            </List>
+        </content>
+    </Page>
+</mvc:View>
