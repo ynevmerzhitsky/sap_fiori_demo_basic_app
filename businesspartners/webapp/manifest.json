@@ -30,9 +30,10 @@
       "inbounds": {
         "Object-display": {
           "semanticObject": "Object",
-          "action": "display",
+          "action": "show",
           "title": "{{flpTitle}}",
           "subTitle": "{{flpSubtitle}}",
+          "icon": "sap-icon://bullet-text",
           "signature": {
             "parameters": {},
             "additionalParameters": "allowed"
