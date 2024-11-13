@@ -28,8 +28,8 @@
     },
     "crossNavigation": {
       "inbounds": {
-        "Object-display": {
-          "semanticObject": "Object",
+        "nsbusinesspartners-display": {
+          "semanticObject": "nsbusinesspartners",
           "action": "display",
           "title": "{{flpTitle}}",
           "subTitle": "{{flpSubtitle}}",
